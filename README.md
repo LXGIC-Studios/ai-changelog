@@ -1,5 +1,11 @@
 # ai-changelog
 
+[![npm version](https://img.shields.io/npm/v/@lxgicstudios/ai-changelog.svg)](https://www.npmjs.com/package/@lxgicstudios/ai-changelog)
+[![npm downloads](https://img.shields.io/npm/dm/@lxgicstudios/ai-changelog.svg)](https://www.npmjs.com/package/@lxgicstudios/ai-changelog)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+AI-powered changelog generator from git history. Creates clean, categorized release notes.
+
 Generates a clean, categorized changelog from your git history. You give it two refs (tags, branches, commits) and it reads the log between them, then uses OpenAI to turn that mess of commit messages into a proper CHANGELOG entry.
 
 ## Install

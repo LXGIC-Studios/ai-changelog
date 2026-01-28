@@ -31,7 +31,18 @@
   },
   "keywords": [
     "ai",
+    "openai",
+    "gpt",
+    "changelog",
+    "release-notes",
+    "git",
+    "semver",
+    "versioning",
+    "developer-tools",
     "cli",
-    "developer-tools"
+    "automation",
+    "typescript",
+    "nodejs",
+    "conventional-commits"
   ]
 }
